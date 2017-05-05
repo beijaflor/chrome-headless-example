@@ -1,0 +1,11 @@
+{
+  "name": "chrome-headless",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Sho Otani <sho.otani@gmail.com>",
+  "license": "",
+  "dependencies": {
+    "lighthouse": "^1.6.5",
+    "chrome-remote-interface": "^0.22.0"
+  }
+}
